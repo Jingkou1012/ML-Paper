@@ -1,7 +1,7 @@
 ## 📌 Template
 - YYMMDD - Term - Title - Citation - [link](https:)
 ---
-## Paper
+## 📃 Paper
 - 971101 - BRNN - Bidirectional Recurrent Networks - 10861 - [IEEE](https://ieeexplore.ieee.org/abstract/document/650093)
 - 971115 - LSTM - Long Short-Term Memory - 109997 - [IEEE](https://ieeexplore.ieee.org/abstract/document/6795963/)
 - 130116 - Word2Vec - Efficient Estimation of Word Representations in Vector Space - 43194 - [arXiv](https://arxiv.org/abs/1301.3781)
