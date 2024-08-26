@@ -1,3 +1,8 @@
+> The only way to do great work is to love what you do. - Steve Jobs
+
+This is a dedicated space where I collect and share a wide range of papers on machine learning. Whether you’re a seasoned researcher, a curious student, or just someone passionate about the field, you’ll find valuable resources here.
+
+---
 ## 📌 Template
 - YYMMDD - Term - Title - Citation - [link](https:)
 ---
@@ -36,6 +41,7 @@
 - 180113 - MobileNetV2 - Inverted Residuals and Linear Bottlenecks - 23786 - [arXiv](https://arxiv.org/abs/1801.04381)
 - 180408 - YOLOv3 - An Incremental Improvement - 29263 - [arXiv](https://arxiv.org/abs/1804.02767)
 - 190528 - EfficientNet - Rethinking Model Scaling for Convolutional Neural Networks - 22116 - [arXiv](https://arxiv.org/abs/1905.11946)
+- 200123 - Scaling Laws - Scaling Laws for Neural Language Models - 1919 - [arXiv](https://arxiv.org/abs/2001.08361)
 ---
 ## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Jingkou1012/ML-Paper&type=Date)](https://star-history.com/#Jingkou1012/ML-Paper&Date)
